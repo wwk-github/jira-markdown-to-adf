@@ -1,3 +1,6 @@
+If you need to convert decriptions/comments from JIRA datacenter into JIRA cloud you could find this project usefull.
+The internal format changed from markdown into adf (json like). This project uses Atlassian js libs to do the best effort conversion.
+
 # build
 
 Build. Usage of local .npmrc is optional.
